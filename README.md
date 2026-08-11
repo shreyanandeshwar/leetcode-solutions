@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -45,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
