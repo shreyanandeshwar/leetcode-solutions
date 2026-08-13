@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
