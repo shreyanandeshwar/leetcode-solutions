@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
