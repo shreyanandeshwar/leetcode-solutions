@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
