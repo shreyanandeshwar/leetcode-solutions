@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
