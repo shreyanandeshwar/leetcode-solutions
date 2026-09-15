@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
