@@ -1,0 +1,23 @@
+class Solution {
+    public String addStrings(String num1, String num2) {
+        int i = num1.length() - 1;
+        int j = num2.length() - 1;
+        int carry = 0;
+        StringBuilder result = new StringBuilder();
+        while(i >= 0 || j >= 0){
+            int digit1 = (i >= 0)?num1.charAt(i)-'0':0;
+            int digit2 = (j >= 0)?num2.charAt(j)-'0':0;
+            int sum = digit1 + digit2 + carry;
+            int digit = sum % 10;
+            carry = sum/10;
+            result.append(digit);
+            i--;
+            j--;
+        }
+        if(carry > 0){
+            result.append(carry);
+        }
+        //digits calculated 335 => ans = 533 so reverse
+        return result.reverse().toString();
+    }
+}
