@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
