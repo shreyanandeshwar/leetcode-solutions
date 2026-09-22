@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
