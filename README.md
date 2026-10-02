@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
