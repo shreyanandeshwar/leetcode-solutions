@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
