@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0389-find-the-difference) |
