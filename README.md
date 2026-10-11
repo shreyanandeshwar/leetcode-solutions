@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0707-design-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
