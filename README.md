@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -369,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0051-n-queens) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
