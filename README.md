@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
