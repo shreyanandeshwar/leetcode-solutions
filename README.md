@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
