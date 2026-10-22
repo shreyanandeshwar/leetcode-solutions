@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0704-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
