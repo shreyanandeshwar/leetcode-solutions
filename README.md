@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0392-is-subsequence) |
