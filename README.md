@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0263-ugly-number) |
