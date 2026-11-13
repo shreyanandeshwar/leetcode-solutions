@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Memoization
 |  |
 | ------- |
