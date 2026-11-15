@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
