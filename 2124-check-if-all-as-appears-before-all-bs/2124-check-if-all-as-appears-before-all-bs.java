@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkString(String s) {
-        boolean foundB = false;
+        /*boolean foundB = false;
         for(int i=0;i<s.length();i++){
             //if b is encountered
             if(s.charAt(i)=='b'){
@@ -11,6 +11,8 @@ class Solution {
                 return false;
             }
         }
-        return true;
+        return true;*/
+        //or
+        return s.indexOf('b') == -1 || s.lastIndexOf('a') < s.indexOf('b');
     }
 }
