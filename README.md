@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0162-find-peak-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
