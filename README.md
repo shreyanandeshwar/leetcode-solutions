@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3360-stone-removal-game](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
