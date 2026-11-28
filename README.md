@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyanandeshwar/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
